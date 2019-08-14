@@ -2,5 +2,13 @@
 
 https://groups.google.com/forum/#!forum/livox-lidars
 
-# Tools
-A collection of tool software that provides different small features, such as point cloud file format conversion
+
+
+# Livox Viewer Download
+https://www.livoxtech.com/mid-40-and-mid-100/downloads
+
+
+
+# Livox Viewer Color Coding Strategy
+
+https://github.com/Livox-SDK/Livox-SDK/wiki/Livox-Viewer#1-color-coding-strategy
